@@ -1,5 +1,6 @@
 # Greeneeds
-![image](https://user-images.githubusercontent.com/100059297/180118337-a26967b0-3122-4a26-b005-ba1bde7fc6a9.png)
+https://user-images.githubusercontent.com/65996045/179173662-85daefb2-5956-467e-9633-dec5ace28ea8.gif
+
 
 
 ## Introduction
